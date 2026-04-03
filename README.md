@@ -1,0 +1,23 @@
+# 🚀 LeetCode Solutions in Java
+
+My personal journey through LeetCode problems, organized by topic for easy reference.
+
+## 📊 Solutions Index
+
+### 🔹 Array
+| Problem | Difficulty | Solution |
+| :--- | :---: | :---: |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [TwoSum.java](./Array/TwoSum.java) |
+| [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | [Threesum.java](./Array/Threesum.java) |
+| [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | [FourSum.java](./Array/FourSum.java) |
+
+---
+
+## 📂 Repository Structure
+The project is structured by data structure/algorithm categories:
+```text
+.
+└── Array/
+    ├── TwoSum.java
+    ├── Threesum.java
+    └── FourSum.java
