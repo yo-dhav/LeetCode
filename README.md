@@ -11,6 +11,7 @@ My personal journey through LeetCode problems, organized by topic for easy refer
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | [Threesum.java](./Array/Threesum.java) |
 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | [FourSum.java](./Array/FourSum.java) |
 | [Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | [Candy.java](./Array/Candy.java) |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [BTBSS.java](./Array/BTBSS.java) |
 
 
 ---
@@ -24,3 +25,4 @@ The project is structured by data structure/algorithm categories:
     ├── Threesum.java
     └── FourSum.java
     └── Candy.java
+    └── BTBSS.java
