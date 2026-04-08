@@ -3,11 +3,11 @@ class BTBSS {
         int min = Integer.MAX_VALUE;
         int maxprofit = 0;
 
-        for (int i : prices) {
-            if (i < min ){
-                min = i;
+        for (int i=0; i < prices.length; i++) {
+            if (prices[i] < min ){
+                min = prices[i];
             } else {
-                maxprofit = Math.max(maxprofit, i - min);
+                maxprofit = Math.max(maxprofit, prices[i] - min);
             }
         }
 
