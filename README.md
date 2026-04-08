@@ -8,6 +8,7 @@ My personal journey through LeetCode problems, organized by topic for easy refer
 | Problem | Difficulty | Solution |
 | :--- | :---: | :---: |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [TwoSum.java](./Array/TwoSum.java) |
+| [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | [MajElem.java](./Array/MajElem.java) |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [BTBSS.java](./Array/BTBSS.java) |
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | [Threesum.java](./Array/Threesum.java) |
 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | [FourSum.java](./Array/FourSum.java) |
@@ -23,6 +24,7 @@ The project is structured by data structure/algorithm categories:
 └── Array/
     ├── TwoSum.java
     └── BTBSS.java
+    └── MajElem.java
     ├── Threesum.java
     └── FourSum.java
     └── Candy.java
