@@ -13,6 +13,7 @@ My personal journey through LeetCode problems, organized by topic for easy refer
 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | [Threesum.java](./Array/Threesum.java) |
 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | [FourSum.java](./Array/FourSum.java) |
 | [HIndex](https://leetcode.com/problems/h-index/) | 🟡 Medium | [HIndex.java](./Array/HIndex.java) |
+| [JumpGame](https://leetcode.com/problems/jump-game/) | 🟡 Medium | [JumpGame.java](./Array/JumpGame.java) |
 | [Candy](https://leetcode.com/problems/candy/) | 🔴 Hard | [Candy.java](./Array/Candy.java) |
 
 ---
@@ -28,4 +29,5 @@ The project is structured by data structure/algorithm categories:
     ├── Threesum.java
     └── FourSum.java
     └── HIndex.java
+    └── JumpGame.java
     └── Candy.java
